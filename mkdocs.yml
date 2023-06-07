@@ -1,0 +1,94 @@
+# Replace the text below to customize your site
+site_name: VitalityAging - Drawing Robot
+site_description: VitalityAging - Drawing Robots
+site_author: Marc Specht, Lawrance Bahem, Thije Wind, Abdelrahman El-Khenizy, Clint Halsema
+
+copyright: Copyright 2022 VitalityAging - Drawing Robots - Creative Commons Attribution Non Commercial
+
+site_url: https://localhost:8000/
+
+theme:
+  name: material
+  palette:
+    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    primary: teal
+    accent: teal
+  font:
+    # See available fonts at https://fonts.google.com/
+    text: Arial
+    code: Ubuntu Mono
+  logo: images\DrawBotV3Left.jpg
+  favicon: images\DrawBotV3Left.jpg
+  features:
+    - navigation.instant
+    - content.code.annotate
+nav:
+  - 'Team agreements':
+      - 'Git': 'tutorials/git.md'
+      - 'Scrum': 'tutorials/scrum.md'
+      - 'Retrospective': 'tutorials/retrospective.md'
+      - 'Definition of Done': 'tutorials/dod.md'
+      - 'Collaboration Agreement': 'tutorials/collaboration_agreement.md'
+  - 'Bill of Materials': 'bill_of_materials.md'
+  - 'Assembly Guide': 'product_manual.md'
+  - 'Pick up where we left off': 'pick-up-where-we-left-off.md'
+  - 'Documentation':
+    - 'API reference': 'documentation/api_reference.md'
+    - 'Connecting the JetBot to a computer?': 'documentation/connect_jetbot_computer.md'
+    - 'Connecting to the DrawBot': 'documentation/connect_to_drawbot.md'
+    - 'Control Jetson Nano GPIO pins': 'documentation/control_jetson_gpio-pins.md'
+    - 'Control servo on the Jetbot': 'documentation/control_servo_on_jetson.md'
+    - 'Enhancing object detection': 'documentation/enhance-object-detection.md' 
+    - 'Front end design': 'documentation/front-end-design.md' 
+    - 'JetBot configuration': 'documentation/jetbot_configuration.md'
+    - 'Pen holder attachment': 'documentation/pen_holder_doc.md'
+    - 'Power issue with Jetson': 'documentation/power_issue.md'
+    - 'Setup clean install': 'documentation/setup-drawbot.md'
+    - 'Startup service Linux': 'documentation/startup_upon_power.md'  
+    - 'Control stepper motor on the JetBot': 'documentation/stepper_motor_on_jetson.md'
+    - 'Storage configuration': 'documentation/storage_configuration.md'
+    - 'Upload code to DrawBot': 'documentation/upload_program_code.md'  
+  - 'Research':
+      - 'Adding a button': 'research/research-add-button.md'
+      - 'Best camera for our project': 'research/research-best-camera.md'
+      - 'Conditional design': 'research/research-conditional.md'
+      - 'Fusion360 install & basics': 'research/research_fusion360_basics.md'
+      - 'How to draw a flower': 'research/draw_flower.md'
+      - 'How to apply basic motion to the JetBot?': 'research/research_basic_motion_jetbot.md'
+      - 'How to let the JetBot detect color?': 'research/research_detect_color.md'
+      - 'How to use line detection with OpenCV': 'research/research_line_detection.md'
+      - 'How to use Pytorch': 'research/research-pytorch.md'
+      - 'What is the best place for a pen on the JetBot?': 'research/research_pen_location.md'
+      - 'What is Computer Vision?': 'research/research_computer_vision.md'
+      - 'Web-application': 'research/research_web_application.md'
+      - 'Remove login': 'research/research-remove-login.md'
+      - 'What to draw when we detect a triangle': 'research/research-triangle.md'
+      
+
+plugins:
+  - search
+  - git-authors
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      # Read more: https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/options/#enabled
+      enabled: !ENV [ ENABLED_GIT_REVISION_DATE, False ]
+
+markdown_extensions:
+  - extra
+  - smarty
+  - admonition
+  - pymdownx.keys
+  - codehilite:
+      guess_lang: true
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

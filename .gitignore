@@ -1,0 +1,5 @@
+/.idea/
+.DS_Store
+docs//**/*.js
+docs/.DS_Store
+/embedded-device/drawbot-server-backup/.idea/drawbot-flask-v4.iml

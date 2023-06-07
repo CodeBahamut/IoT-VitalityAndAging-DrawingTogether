@@ -1,0 +1,351 @@
+0,air_force_blue_raf,Air Force Blue (Raf),#5d8aa8,93,138,168
+1,air_force_blue_usaf,Air Force Blue (Usaf),#00308f,0,48,143
+2,air_superiority_blue,Air Superiority Blue,#72a0c1,114,160,193
+3,alice_blue,Alice Blue,#f0f8ff,240,248,255
+4,alloy_orange,Alloy Orange,#c46210,196,98,16
+5,android_green,Android Green,#a4c639,164,198,57
+6,apple_green,Apple Green,#8db600,141,182,0
+7,army_green,Army Green,#4b5320,75,83,32
+8,arylide_yellow,Arylide Yellow,#e9d66b,233,214,107
+9,baby_blue,Baby Blue,#89cff0,137,207,240
+10,baby_blue_eyes,Baby Blue Eyes,#a1caf1,161,202,241
+11,baby_pink,Baby Pink,#f4c2c2,244,194,194
+12,ball_blue,Ball Blue,#21abcd,33,171,205
+13,banana_yellow,Banana Yellow,#ffe135,255,225,53
+14,barn_red,Barn Red,#7c0a02,124,10,2
+15,beau_blue,Beau Blue,#bcd4e6,188,212,230
+16,blizzard_blue,Blizzard Blue,#ace5ee,172,229,238
+17,blue,Blue,#00f,0,0,255
+18,blue_bell,Blue Bell,#a2a2d0,162,162,208
+19,blue_crayola,Blue (Crayola),#1f75fe,31,117,254
+20,blue_gray,Blue Gray,#69c,102,153,204
+21,blue_green,Blue-Green,#0d98ba,13,152,186
+22,blue_munsell,Blue (Munsell),#0093af,0,147,175
+23,blue_ncs,Blue (Ncs),#0087bd,0,135,189
+24,blue_pigment,Blue (Pigment),#339,51,51,153
+25,blue_ryb,Blue (Ryb),#0247fe,2,71,254
+26,blue_sapphire,Blue Sapphire,#126180,18,97,128
+27,blue_violet,Blue-Violet,#8a2be2,138,43,226
+28,bondi_blue,Bondi Blue,#0095b6,0,149,182
+29,boston_university_red,Boston University Red,#c00,204,0,0
+30,bottle_green,Bottle Green,#006a4e,0,106,78
+31,brandeis_blue,Brandeis Blue,#0070ff,0,112,255
+32,brick_red,Brick Red,#cb4154,203,65,84
+33,bright_green,Bright Green,#6f0,102,255,0
+34,bright_pink,Bright Pink,#ff007f,255,0,127
+35,brink_pink,Brink Pink,#fb607f,251,96,127
+36,british_racing_green,British Racing Green,#004225,0,66,37
+37,burnt_orange,Burnt Orange,#c50,204,85,0
+38,cadet_blue,Cadet Blue,#5f9ea0,95,158,160
+39,cadmium_green,Cadmium Green,#006b3c,0,107,60
+40,cadmium_orange,Cadmium Orange,#ed872d,237,135,45
+41,cadmium_red,Cadmium Red,#e30022,227,0,34
+42,cadmium_yellow,Cadmium Yellow,#fff600,255,246,0
+43,cal_poly_green,Cal Poly Green,#1e4d2b,30,77,43
+44,cambridge_blue,Cambridge Blue,#a3c1ad,163,193,173
+45,cameo_pink,Cameo Pink,#efbbcc,239,187,204
+46,camouflage_green,Camouflage Green,#78866b,120,134,107
+47,canary_yellow,Canary Yellow,#ffef00,255,239,0
+48,candy_apple_red,Candy Apple Red,#ff0800,255,8,0
+49,candy_pink,Candy Pink,#e4717a,228,113,122
+50,caribbean_green,Caribbean Green,#0c9,0,204,153
+51,carmine_pink,Carmine Pink,#eb4c42,235,76,66
+52,carmine_red,Carmine Red,#ff0038,255,0,56
+53,carnation_pink,Carnation Pink,#ffa6c9,255,166,201
+54,carolina_blue,Carolina Blue,#99badd,153,186,221
+55,carrot_orange,Carrot Orange,#ed9121,237,145,33
+56,catalina_blue,Catalina Blue,#062a78,6,42,120
+57,celadon_blue,Celadon Blue,#007ba7,0,123,167
+58,celadon_green,Celadon Green,#2f847c,47,132,124
+59,celestial_blue,Celestial Blue,#4997d0,73,151,208
+60,cerise_pink,Cerise Pink,#ec3b83,236,59,131
+61,cerulean_blue,Cerulean Blue,#2a52be,42,82,190
+62,cg_blue,Cg Blue,#007aa5,0,122,165
+63,cg_red,Cg Red,#e03c31,224,60,49
+64,charm_pink,Charm Pink,#e68fac,230,143,172
+65,cherry_blossom_pink,Cherry Blossom Pink,#ffb7c5,255,183,197
+66,china_pink,China Pink,#de6fa1,222,111,161
+67,chinese_red,Chinese Red,#aa381e,170,56,30
+68,chrome_yellow,Chrome Yellow,#ffa700,255,167,0
+69,columbia_blue,Columbia Blue,#9bddff,155,221,255
+70,congo_pink,Congo Pink,#f88379,248,131,121
+71,copper_red,Copper Red,#cb6d51,203,109,81
+72,coral_pink,Coral Pink,#f88379,248,131,121
+73,coral_red,Coral Red,#ff4040,255,64,64
+74,cornell_red,Cornell Red,#b31b1b,179,27,27
+75,cornflower_blue,Cornflower Blue,#6495ed,100,149,237
+76,dark_blue,Dark Blue,#00008b,0,0,139
+77,dark_candy_apple_red,Dark Candy Apple Red,#a40000,164,0,0
+78,dark_electric_blue,Dark Electric Blue,#536878,83,104,120
+79,dark_green,Dark Green,#013220,1,50,32
+80,dark_imperial_blue,Dark Imperial Blue,#00416a,0,65,106
+81,dark_jungle_green,Dark Jungle Green,#1a2421,26,36,33
+82,dark_midnight_blue,Dark Midnight Blue,#036,0,51,102
+83,dark_olive_green,Dark Olive Green,#556b2f,85,107,47
+84,dark_orange,Dark Orange,#ff8c00,255,140,0
+85,dark_pastel_blue,Dark Pastel Blue,#779ecb,119,158,203
+86,dark_pastel_green,Dark Pastel Green,#03c03c,3,192,60
+87,dark_pastel_purple,Dark Pastel Purple,#966fd6,150,111,214
+88,dark_pastel_red,Dark Pastel Red,#c23b22,194,59,34
+89,dark_pink,Dark Pink,#e75480,231,84,128
+90,dark_powder_blue,Dark Powder Blue,#039,0,51,153
+91,dark_red,Dark Red,#8b0000,139,0,0
+92,dark_sea_green,Dark Sea Green,#8fbc8f,143,188,143
+93,dark_slate_blue,Dark Slate Blue,#483d8b,72,61,139
+94,dark_spring_green,Dark Spring Green,#177245,23,114,69
+95,dark_yellow,Dark Yellow,#9b870c,155,135,12
+96,dartmouth_green,Dartmouth Green,#00703c,0,112,60
+97,debian_red,Debian Red,#d70a53,215,10,83
+98,deep_carmine_pink,Deep Carmine Pink,#ef3038,239,48,56
+99,deep_carrot_orange,Deep Carrot Orange,#e9692c,233,105,44
+100,deep_jungle_green,Deep Jungle Green,#004b49,0,75,73
+101,deep_pink,Deep Pink,#ff1493,255,20,147
+102,deep_sky_blue,Deep Sky Blue,#00bfff,0,191,255
+103,deep_tuscan_red,Deep Tuscan Red,#66424d,102,66,77
+104,dodger_blue,Dodger Blue,#1e90ff,30,144,255
+105,duke_blue,Duke Blue,#00009c,0,0,156
+106,earth_yellow,Earth Yellow,#e1a95f,225,169,95
+107,egyptian_blue,Egyptian Blue,#1034a6,16,52,166
+108,electric_blue,Electric Blue,#7df9ff,125,249,255
+109,electric_green,Electric Green,#0f0,0,255,0
+110,electric_purple,Electric Purple,#bf00ff,191,0,255
+111,electric_yellow,Electric Yellow,#ff0,255,255,0
+112,eton_blue,Eton Blue,#96c8a2,150,200,162
+113,falu_red,Falu Red,#801818,128,24,24
+114,fern_green,Fern Green,#4f7942,79,121,66
+115,ferrari_red,Ferrari Red,#ff2800,255,40,0
+116,fire_engine_red,Fire Engine Red,#ce2029,206,32,41
+117,flamingo_pink,Flamingo Pink,#fc8eac,252,142,172
+118,fluorescent_orange,Fluorescent Orange,#ffbf00,255,191,0
+119,fluorescent_pink,Fluorescent Pink,#ff1493,255,20,147
+120,fluorescent_yellow,Fluorescent Yellow,#cf0,204,255,0
+121,forest_green_traditional,Forest Green (Traditional),#014421,1,68,33
+122,forest_green_web,Forest Green (Web),#228b22,34,139,34
+123,french_blue,French Blue,#0072bb,0,114,187
+124,fuchsia_pink,Fuchsia Pink,#f7f,255,119,255
+125,golden_yellow,Golden Yellow,#ffdf00,255,223,0
+126,green_color_wheel_x11_green,Green (Color Wheel) (X11 Green),#0f0,0,255,0
+127,green_crayola,Green (Crayola),#1cac78,28,172,120
+128,green_html_css_green,Green (Html/Css Green),#008000,0,128,0
+129,green_munsell,Green (Munsell),#00a877,0,168,119
+130,green_ncs,Green (Ncs),#009f6b,0,159,107
+131,green_pigment,Green (Pigment),#00a550,0,165,80
+132,green_ryb,Green (Ryb),#66b032,102,176,50
+133,green_yellow,Green-Yellow,#adff2f,173,255,47
+134,guppie_green,Guppie Green,#00ff7f,0,255,127
+135,han_blue,Han Blue,#446ccf,68,108,207
+136,han_purple,Han Purple,#5218fa,82,24,250
+137,hansa_yellow,Hansa Yellow,#e9d66b,233,214,107
+138,honolulu_blue,Honolulu Blue,#007fbf,0,127,191
+139,hooker_s_green,Hooker'S Green,#49796b,73,121,107
+140,hot_pink,Hot Pink,#ff69b4,255,105,180
+141,hunter_green,Hunter Green,#355e3b,53,94,59
+142,imperial_blue,Imperial Blue,#002395,0,35,149
+143,india_green,India Green,#138808,19,136,8
+144,indian_red,Indian Red,#cd5c5c,205,92,92
+145,indian_yellow,Indian Yellow,#e3a857,227,168,87
+146,international_klein_blue,International Klein Blue,#002fa7,0,47,167
+147,international_orange_aerospace,International Orange (Aerospace),#ff4f00,255,79,0
+148,international_orange_engineering,International Orange (Engineering),#ba160c,186,22,12
+149,international_orange_golden_gate_bridge,International Orange (Golden Gate Bridge),#c0362c,192,54,44
+150,islamic_green,Islamic Green,#009000,0,144,0
+151,jungle_green,Jungle Green,#29ab87,41,171,135
+152,kelly_green,Kelly Green,#4cbb17,76,187,23
+153,la_salle_green,La Salle Green,#087830,8,120,48
+154,laurel_green,Laurel Green,#a9ba9d,169,186,157
+155,lavender_blue,Lavender Blue,#ccf,204,204,255
+156,lavender_pink,Lavender Pink,#fbaed2,251,174,210
+157,lavender_purple,Lavender Purple,#967bb6,150,123,182
+158,lawn_green,Lawn Green,#7cfc00,124,252,0
+159,light_blue,Light Blue,#add8e6,173,216,230
+160,light_carmine_pink,Light Carmine Pink,#e66771,230,103,113
+161,light_cornflower_blue,Light Cornflower Blue,#93ccea,147,204,234
+162,light_fuchsia_pink,Light Fuchsia Pink,#f984ef,249,132,239
+163,light_goldenrod_yellow,Light Goldenrod Yellow,#fafad2,250,250,210
+164,light_green,Light Green,#90ee90,144,238,144
+165,light_pastel_purple,Light Pastel Purple,#b19cd9,177,156,217
+166,light_pink,Light Pink,#ffb6c1,255,182,193
+167,light_red_ochre,Light Red Ochre,#e97451,233,116,81
+168,light_salmon_pink,Light Salmon Pink,#f99,255,153,153
+169,light_sea_green,Light Sea Green,#20b2aa,32,178,170
+170,light_sky_blue,Light Sky Blue,#87cefa,135,206,250
+171,light_thulian_pink,Light Thulian Pink,#e68fac,230,143,172
+172,light_yellow,Light Yellow,#ffffe0,255,255,224
+173,lime_green,Lime Green,#32cd32,50,205,50
+174,lime_web_x11_green,Lime (Web) (X11 Green),#0f0,0,255,0
+175,lincoln_green,Lincoln Green,#195905,25,89,5
+176,little_boy_blue,Little Boy Blue,#6ca0dc,108,160,220
+177,majorelle_blue,Majorelle Blue,#6050dc,96,80,220
+178,maya_blue,Maya Blue,#73c2fb,115,194,251
+179,medium_blue,Medium Blue,#0000cd,0,0,205
+180,medium_candy_apple_red,Medium Candy Apple Red,#e2062c,226,6,44
+181,medium_electric_blue,Medium Electric Blue,#035096,3,80,150
+182,medium_jungle_green,Medium Jungle Green,#1c352d,28,53,45
+183,medium_persian_blue,Medium Persian Blue,#0067a5,0,103,165
+184,medium_purple,Medium Purple,#9370db,147,112,219
+185,medium_red_violet,Medium Red-Violet,#bb3385,187,51,133
+186,medium_sea_green,Medium Sea Green,#3cb371,60,179,113
+187,medium_slate_blue,Medium Slate Blue,#7b68ee,123,104,238
+188,medium_spring_green,Medium Spring Green,#00fa9a,0,250,154
+189,medium_tuscan_red,Medium Tuscan Red,#79443b,121,68,59
+190,medium_violet_red,Medium Violet-Red,#c71585,199,21,133
+191,mellow_yellow,Mellow Yellow,#f8de7e,248,222,126
+192,midnight_blue,Midnight Blue,#191970,25,25,112
+193,midnight_green_eagle_green,Midnight Green (Eagle Green),#004953,0,73,83
+194,mikado_yellow,Mikado Yellow,#ffc40c,255,196,12
+195,mint_green,Mint Green,#98ff98,152,255,152
+196,moonstone_blue,Moonstone Blue,#73a9c2,115,169,194
+197,mordant_red_19,Mordant Red 19,#ae0c00,174,12,0
+198,moss_green,Moss Green,#addfad,173,223,173
+199,mountbatten_pink,Mountbatten Pink,#997a8d,153,122,141
+200,msu_green,Msu Green,#18453b,24,69,59
+201,nadeshiko_pink,Nadeshiko Pink,#f6adc6,246,173,198
+202,napier_green,Napier Green,#2a8000,42,128,0
+203,naples_yellow,Naples Yellow,#fada5e,250,218,94
+204,navy_blue,Navy Blue,#000080,0,0,128
+205,neon_green,Neon Green,#39ff14,57,255,20
+206,new_york_pink,New York Pink,#d7837f,215,131,127
+207,non_photo_blue,Non-Photo Blue,#a4dded,164,221,237
+208,north_texas_green,North Texas Green,#059033,5,144,51
+209,ocean_boat_blue,Ocean Boat Blue,#0077be,0,119,190
+210,office_green,Office Green,#008000,0,128,0
+211,orange_color_wheel,Orange (Color Wheel),#ff7f00,255,127,0
+212,orange_peel,Orange Peel,#ff9f00,255,159,0
+213,orange_red,Orange-Red,#ff4500,255,69,0
+214,orange_ryb,Orange (Ryb),#fb9902,251,153,2
+215,orange_web_color,Orange (Web Color),#ffa500,255,165,0
+216,ou_crimson_red,Ou Crimson Red,#900,153,0,0
+217,outrageous_orange,Outrageous Orange,#ff6e4a,255,110,74
+218,oxford_blue,Oxford Blue,#002147,0,33,71
+219,pakistan_green,Pakistan Green,#060,0,102,0
+220,palatinate_blue,Palatinate Blue,#273be2,39,59,226
+221,palatinate_purple,Palatinate Purple,#682860,104,40,96
+222,pale_blue,Pale Blue,#afeeee,175,238,238
+223,pale_cornflower_blue,Pale Cornflower Blue,#abcdef,171,205,239
+224,pale_green,Pale Green,#98fb98,152,251,152
+225,pale_pink,Pale Pink,#fadadd,250,218,221
+226,pale_red_violet,Pale Red-Violet,#db7093,219,112,147
+227,pale_robin_egg_blue,Pale Robin Egg Blue,#96ded1,150,222,209
+228,pale_violet_red,Pale Violet-Red,#db7093,219,112,147
+229,pansy_purple,Pansy Purple,#78184a,120,24,74
+230,paris_green,Paris Green,#50c878,80,200,120
+231,pastel_blue,Pastel Blue,#aec6cf,174,198,207
+232,pastel_green,Pastel Green,#7d7,119,221,119
+233,pastel_orange,Pastel Orange,#ffb347,255,179,71
+234,pastel_pink,Pastel Pink,#dea5a4,222,165,164
+235,pastel_purple,Pastel Purple,#b39eb5,179,158,181
+236,pastel_red,Pastel Red,#ff6961,255,105,97
+237,pastel_yellow,Pastel Yellow,#fdfd96,253,253,150
+238,peach_orange,Peach-Orange,#fc9,255,204,153
+239,peach_yellow,Peach-Yellow,#fadfad,250,223,173
+240,pearly_purple,Pearly Purple,#b768a2,183,104,162
+241,persian_blue,Persian Blue,#1c39bb,28,57,187
+242,persian_green,Persian Green,#00a693,0,166,147
+243,persian_orange,Persian Orange,#d99058,217,144,88
+244,persian_pink,Persian Pink,#f77fbe,247,127,190
+245,persian_red,Persian Red,#c33,204,51,51
+246,phthalo_blue,Phthalo Blue,#000f89,0,15,137
+247,phthalo_green,Phthalo Green,#123524,18,53,36
+248,piggy_pink,Piggy Pink,#fddde6,253,221,230
+249,pine_green,Pine Green,#01796f,1,121,111
+250,pink,Pink,#ffc0cb,255,192,203
+251,pink_lace,Pink Lace,#ffddf4,255,221,244
+252,pink_orange,Pink-Orange,#f96,255,153,102
+253,pink_pearl,Pink Pearl,#e7accf,231,172,207
+254,pink_sherbet,Pink Sherbet,#f78fa7,247,143,167
+255,portland_orange,Portland Orange,#ff5a36,255,90,54
+256,powder_blue_web,Powder Blue (Web),#b0e0e6,176,224,230
+257,princeton_orange,Princeton Orange,#ff8f00,255,143,0
+258,prussian_blue,Prussian Blue,#003153,0,49,83
+259,psychedelic_purple,Psychedelic Purple,#df00ff,223,0,255
+260,purple_heart,Purple Heart,#69359c,105,53,156
+261,purple_html_css,Purple (Html/Css),#800080,128,0,128
+262,purple_mountain_majesty,Purple Mountain Majesty,#9678b6,150,120,182
+263,purple_munsell,Purple (Munsell),#9f00c5,159,0,197
+264,purple_pizzazz,Purple Pizzazz,#fe4eda,254,78,218
+265,purple_taupe,Purple Taupe,#50404d,80,64,77
+266,purple_x11,Purple (X11),#a020f0,160,32,240
+267,radical_red,Radical Red,#ff355e,255,53,94
+268,raspberry_pink,Raspberry Pink,#e25098,226,80,152
+269,red,Red,#f00,255,0,0
+270,red_brown,Red-Brown,#a52a2a,165,42,42
+271,red_devil,Red Devil,#860111,134,1,17
+272,red_munsell,Red (Munsell),#f2003c,242,0,60
+273,red_ncs,Red (Ncs),#c40233,196,2,51
+274,red_orange,Red-Orange,#ff5349,255,83,73
+275,red_pigment,Red (Pigment),#ed1c24,237,28,36
+276,red_ryb,Red (Ryb),#fe2712,254,39,18
+277,red_violet,Red-Violet,#c71585,199,21,133
+278,redwood,Redwood,#ab4e52,171,78,82
+279,resolution_blue,Resolution Blue,#002387,0,35,135
+280,rich_electric_blue,Rich Electric Blue,#0892d0,8,146,208
+281,rifle_green,Rifle Green,#414833,65,72,51
+282,robin_egg_blue,Robin Egg Blue,#0cc,0,204,204
+283,rose_pink,Rose Pink,#f6c,255,102,204
+284,royal_blue_traditional,Royal Blue (Traditional),#002366,0,35,102
+285,royal_blue_web,Royal Blue (Web),#4169e1,65,105,225
+286,royal_purple,Royal Purple,#7851a9,120,81,169
+287,royal_yellow,Royal Yellow,#fada5e,250,218,94
+288,rubine_red,Rubine Red,#d10056,209,0,86
+289,ruby_red,Ruby Red,#9b111e,155,17,30
+290,ruddy_pink,Ruddy Pink,#e18e96,225,142,150
+291,rusty_red,Rusty Red,#da2c43,218,44,67
+292,sacramento_state_green,Sacramento State Green,#00563f,0,86,63
+293,safety_orange_blaze_orange,Safety Orange (Blaze Orange),#ff6700,255,103,0
+294,salmon_pink,Salmon Pink,#ff91a4,255,145,164
+295,sap_green,Sap Green,#507d2a,80,125,42
+296,sapphire_blue,Sapphire Blue,#0067a5,0,103,165
+297,school_bus_yellow,School Bus Yellow,#ffd800,255,216,0
+298,screamin_green,Screamin' Green,#76ff7a,118,255,122
+299,sea_blue,Sea Blue,#006994,0,105,148
+300,sea_green,Sea Green,#2e8b57,46,139,87
+301,selective_yellow,Selective Yellow,#ffba00,255,186,0
+302,shamrock_green,Shamrock Green,#009e60,0,158,96
+303,shocking_pink,Shocking Pink,#fc0fc0,252,15,192
+304,shocking_pink_crayola,Shocking Pink (Crayola),#ff6fff,255,111,255
+305,sky_blue,Sky Blue,#87ceeb,135,206,235
+306,slate_blue,Slate Blue,#6a5acd,106,90,205
+307,smalt_dark_powder_blue,Smalt (Dark Powder Blue),#039,0,51,153
+308,spring_green,Spring Green,#00ff7f,0,255,127
+309,st_patrick_s_blue,St. Patrick'S Blue,#23297a,35,41,122
+310,steel_blue,Steel Blue,#4682b4,70,130,180
+311,stil_de_grain_yellow,Stil De Grain Yellow,#fada5e,250,218,94
+312,tangerine_yellow,Tangerine Yellow,#fc0,255,204,0
+313,tango_pink,Tango Pink,#e4717a,228,113,122
+314,tea_green,Tea Green,#d0f0c0,208,240,192
+315,tea_rose_orange,Tea Rose (Orange),#f88379,248,131,121
+316,teal_blue,Teal Blue,#367588,54,117,136
+317,teal_green,Teal Green,#00827f,0,130,127
+318,thulian_pink,Thulian Pink,#de6fa1,222,111,161
+319,tickle_me_pink,Tickle Me Pink,#fc89ac,252,137,172
+320,tiffany_blue,Tiffany Blue,#0abab5,10,186,181
+321,titanium_yellow,Titanium Yellow,#eee600,238,230,0
+322,tractor_red,Tractor Red,#fd0e35,253,14,53
+323,true_blue,True Blue,#0073cf,0,115,207
+324,tufts_blue,Tufts Blue,#417dc1,65,125,193
+325,turquoise_blue,Turquoise Blue,#00ffef,0,255,239
+326,turquoise_green,Turquoise Green,#a0d6b4,160,214,180
+327,tuscan_red,Tuscan Red,#7c4848,124,72,72
+328,tyrian_purple,Tyrian Purple,#66023c,102,2,60
+329,ua_blue,Ua Blue,#03a,0,51,170
+330,ua_red,Ua Red,#d9004c,217,0,76
+331,ucla_blue,Ucla Blue,#536895,83,104,149
+332,ufo_green,Ufo Green,#3cd070,60,208,112
+333,ultra_pink,Ultra Pink,#ff6fff,255,111,255
+334,ultramarine_blue,Ultramarine Blue,#4166f5,65,102,245
+335,united_nations_blue,United Nations Blue,#5b92e5,91,146,229
+336,unmellow_yellow,Unmellow Yellow,#ff6,255,255,102
+337,up_forest_green,Up Forest Green,#014421,1,68,33
+338,upsdell_red,Upsdell Red,#ae2029,174,32,41
+339,usafa_blue,Usafa Blue,#004f98,0,79,152
+340,venetian_red,Venetian Red,#c80815,200,8,21
+341,violet_blue,Violet-Blue,#324ab2,50,74,178
+342,wild_blue_yonder,Wild Blue Yonder,#a2add0,162,173,208
+343,yale_blue,Yale Blue,#0f4d92,15,77,146
+344,yellow,Yellow,#ff0,255,255,0
+345,yellow_green,Yellow-Green,#9acd32,154,205,50
+346,yellow_munsell,Yellow (Munsell),#efcc00,239,204,0
+347,yellow_ncs,Yellow (Ncs),#ffd300,255,211,0
+348,yellow_orange,Yellow Orange,#ffae42,255,174,66
+349,yellow_process,Yellow (Process),#ffef00,255,239,0
+350,yellow_ryb,Yellow (Ryb),#fefe33,254,254,51

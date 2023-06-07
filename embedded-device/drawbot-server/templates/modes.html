@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- {#
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='/styles/index.css') }}">
+    #} -->
+    <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='/styles/index.css') }}"> -->
+    <link rel="stylesheet" type="text/css" href="../static/styles/index.css">
+    <script src="{{ url_for('static', filename='/js/socketIO.js') }}"></script>
+    <script src="{{ url_for('static', filename='/js/index.js') }}"></script>
+
+</head>
+<body>
+
+<a href="./index.html"></a><img src="../static/images/drawbot-logo.png" alt="drawbot logo">
+
+<div class="container">
+
+    <div class="start-stop-btns">
+        <button id="start-btn" class="button" onclick="onStartClick()">Start</button>
+        <button id="stop-btn" class="button" onclick="onStopClick()">Stop</button>
+        <!-- <button id="start-shape-detection-btn" class="button" onclick="onStarShapeDetectionClick()">Start shape
+            detection
+        </button>
+        <button id="stop-shape-detection-btn" class="button" onclick="onStopShapeDetectionClick()">Stop shape
+            detection
+        </button>
+
+        <button id="pen-up" class="button" onclick="onPenUp()">Set pen up</button>
+        <button id="pen-down" class="button" onclick="onPenDown()">Set pen down</button> -->
+    </div>
+
+    <div class="mode-buttons">
+        <button>Mode 1</button>
+        <button>Mode 2</button>
+        <button>Mode 3</button>
+    </div>
+
+    <!-- <div class="directional-buttons">
+        <button id="forward-btn" name="direction" class="direction-button up" onclick="onDirectionClick('forward')">
+            <span class="visually-hidden">up</span>
+        </button>
+        <button id="left-btn" name="direction" class="direction-button left" onclick="onDirectionClick('left')">
+            <span class="visually-hidden">left</span>
+        </button>
+        <button id="right-btn" name="direction" class="direction-button right" onclick="onDirectionClick('right')">
+            <span class="visually-hidden">right</span>
+        </button>
+        <button id="backward-btn" name="direction" class="direction-button down" onclick="onDirectionClick('backward')">
+            <span class="visually-hidden">down</span>
+        </button>
+    </div>
+
+
+    <div>
+        {{<img src="{{ url_for('video') }}" width="250px" height="250px"/>}}
+    </div>
+
+    <div>
+        <h2>Shape name</h2>
+        <p id="shape-name"></p>
+    </div> -->
+
+</div>
+
+<div>
+
+</div>
+</body>
+</html>
